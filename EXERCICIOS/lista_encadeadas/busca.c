@@ -20,7 +20,7 @@ celula *busca_rec( celula *le, int x){
             return le;
         }
         le=le->prox; //recebe o proximo nó.
-        busca_rec(le, x);
+        return busca_rec(le, x);
 }
 
 // ! dá erro de time limit exceeded no moj, creio q é pq n há tratamento para os NULL, mas tb n sei oq o moj espera.

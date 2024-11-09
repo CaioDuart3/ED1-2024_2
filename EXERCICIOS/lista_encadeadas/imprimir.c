@@ -19,6 +19,6 @@ void imprime_rec(celula *le){
     else{
         printf("%d -> ", le->prox->dado);
         le = le->prox;
-        imprime_rec(le);
+        return imprime_rec(le);
     }
 }
