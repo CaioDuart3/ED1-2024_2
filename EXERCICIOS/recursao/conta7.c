@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//! logica não está desenvolvida e nem testada.
+// ! incompleto e não testado
 
 int conta7(int entrada, int *count){
     if (entrada != 0){
