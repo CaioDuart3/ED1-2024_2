@@ -7,7 +7,7 @@ Uma pilha é uma estrutura de dados que admite remoção de elementos e inserç�
 
 ## PROCESSAMENTO/ATENDIMENTO DA PILHA
 
-## LIFO (Last-in First-out)
+## LIFO (Last-in First-out) - Profundidade
 - remoção no topo da pilha
 - inserção no topo  da pilha
 
